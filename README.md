@@ -51,7 +51,7 @@
 <h2 align="left">Profile Views</h2>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/harsha843/count.svg?" alt="Profile Views" />
+  <img src="[https://profile-counter.glitch.me/harsha843/count.svg?](https://github.com/harsha843/Git-No-.Plate)" alt="Profile Views" />
 </div>
 
 <h2 align="left">Connect with Me</h2>
