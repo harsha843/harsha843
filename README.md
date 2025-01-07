@@ -5,6 +5,10 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
+- 👯 I’m looking to collaborate on **Full Stack Projects**
+
+- 🤝 I’m looking for help with **Cloud Computing**
+
 - 👨‍💻 All of my projects are available at [https://www.devcase.me/harsha843](https://www.devcase.me/harsha843)
 
 - 💬 Ask me about **Django, Flask and Python**
